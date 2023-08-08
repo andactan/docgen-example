@@ -1,0 +1,22 @@
+{
+    "name": "docgen-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "loglevel": "^1.8.1",
+        "shiki": "^0.14.3",
+        "typescript": "^5.1.6",
+        "vue-component-meta": "^1.8.8",
+        "vue-docgen-api": "^4.74.0",
+        "vue-docgen-cli": "^4.67.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.4.8"
+    }
+}
